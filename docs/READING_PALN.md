@@ -36,3 +36,41 @@ Key Questions:
 
 Do not read books randomly.
 Each reading task must connect to one notebook, one docs note, or one market/industry question.
+
+## redio
+**CME Group Options on Futures芝加哥商品交易所**：
+
+https://www.cboe.com/optionsinstitute/learningportal
+
+https://leveluplearning.cboe.com/pages/50/discover-all-learning
+
+**CME Group Options on Futures：**
+
+https://www.cmegroup.com/education/courses/introduction-to-options?utm\_source=chatgpt.com
+
+**CME YouTube：Options on Futures: Introduction to Options：**
+
+https://www.youtube.com/@cmegroup
+
+**OIC Options Education：**
+
+https://www.optionseducation.org/abouttheoptionsindustrycouncil/investor-services
+
+https://www.optionseducation.org/videolibrary
+
+**B站：**
+
+陈蓉 期权
+
+期权 希腊字母
+
+期权 波动率
+
+期权 策略
+
+期权 隐含波动率
+
+期权 Black-Scholes
+
+
+
