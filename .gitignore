@@ -22,3 +22,7 @@ data/external/
 *.csv
 *.xlsx
 *.parquet
+# Virtual Environment
+.venv/
+venv/
+env/
