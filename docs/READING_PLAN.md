@@ -99,24 +99,20 @@ https://www.optionseducation.org/videolibrary
 3. Risk/reward
 4. Volatility as the key variable
 
-## Cboe Options Institute
-
+## Cboe Options Institute 
+https://www.cboe.com/optionsinstitute/courses/options101/?utm_source=chatgpt.com
+https://www.cmegroup.com/education/courses/introduction-to-options/introduction-to-options
 看：
-
 Options 101
 Payout Diagrams
 Why Trade Options
-
 ## CME Group：Introduction to Options
-
+https://www.cmegroup.com/education/courses/introduction-to-options?utm_source=chatgpt.com
 看：
-
 Introduction to Options
-
 ## CME YouTube：Options on Futures: Introduction to Options
-
+https://www.youtube.com/watch?v=sCmawrxQkag
 看这个视频，重点记录英文术语：
-
 option buyer
 option seller
 right
@@ -126,5 +122,5 @@ strike price
 expiration
 options on futures
 ## OIC Options Education
-
+https://www.optionseducation.org/abouttheoptionsindustrycouncil/about-oic?utm_source=chatgpt.com
 OIC 可以作为查漏补缺的网站。OIC 是 OCC 支持的期权教育平台，提供 courses、webinars、podcasts、tools 和 videos，适合查基础概念和策略定义。
